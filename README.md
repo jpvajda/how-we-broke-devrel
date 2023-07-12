@@ -36,24 +36,24 @@ curl --location 'https://api.deepgram.com/v1/listen?model=nova&smart_format=true
 
 Based on the discussion, here are the suggested changes you should consider making to your developer relations team:
 
-1. Define the role and purpose of your DevRel team: Take the time to clearly define the role of your DevRel team within your organization. Determine their goals, responsibilities, and the value they bring to the company. This will help create clarity and direction for the team.
+1. `Define the role and purpose of your DevRel team:` Take the time to clearly define the role of your DevRel team within your organization. Determine their goals, responsibilities, and the value they bring to the company. This will help create clarity and direction for the team.
 
-2. Build a bespoke DevRel team: Rather than creating a mirror of one person's skill set or copying what other companies are doing, assess your company's specific needs and build a DevRel team with a mix of skill sets that align with those needs. Understand the strengths and weaknesses of your team and identify where additional expertise or skills are required.
+2. `Build a bespoke DevRel team:` Rather than creating a mirror of one person's skill set or copying what other companies are doing, assess your company's specific needs and build a DevRel team with a mix of skill sets that align with those needs. Understand the strengths and weaknesses of your team and identify where additional expertise or skills are required.
 
-3. Clarify the relationship between DevRel and other departments: DevRel should have strong connections and partnerships with various departments, such as marketing, engineering, product, and sales. Define reporting lines and ensure that DevRel has a seat at the table in discussions with these departments. DevRel should serve as a bridge between different aspects of the company.
+3. `Clarify the relationship between DevRel and other departments:` DevRel should have strong connections and partnerships with various departments, such as marketing, engineering, product, and sales. Define reporting lines and ensure that DevRel has a seat at the table in discussions with these departments. DevRel should serve as a bridge between different aspects of the company.
 
-4. Hire for the goals of the team: When hiring for DevRel positions, focus on candidates who align with the goals and objectives of the team. Consider their specific skills and experience, whether technical or non-technical, and how they can contribute to the overall strategy of DevRel.
+4. `Hire for the goals of the team:` When hiring for DevRel positions, focus on candidates who align with the goals and objectives of the team. Consider their specific skills and experience, whether technical or non-technical, and how they can contribute to the overall strategy of DevRel.
 
-5. Emphasize strategy and organization: Recognize the value of strategy and organization within DevRel. Hire team members who can develop and execute strategies, create plans, and organize the team's work effectively. This is especially important in content creation and community building roles.
+5. `Emphasize strategy and organization:` Recognize the value of strategy and organization within DevRel. Hire team members who can develop and execute strategies, create plans, and organize the team's work effectively. This is especially important in content creation and community building roles.
 
-6. Define meaningful metrics: Move away from vanity metrics and identify metrics that truly measure the impact and success of your DevRel team. Focus on metrics related to user engagement, product adoption, customer satisfaction, or other key performance indicators that align with your team's objectives. Avoid metrics that do not directly contribute to the team's goals.
+6. `Define meaningful metrics:` Move away from vanity metrics and identify metrics that truly measure the impact and success of your DevRel team. Focus on metrics related to user engagement, product adoption, customer satisfaction, or other key performance indicators that align with your team's objectives. Avoid metrics that do not directly contribute to the team's goals.
 
-7. Establish ownership of the narrative: Take ownership of the narrative surrounding DevRel within your company. Clearly communicate the value DevRel brings to other departments and ensure that the metrics reported reflect that value. Avoid letting other departments define your team's narrative.
+7. `Establish ownership of the narrative:` Take ownership of the narrative surrounding DevRel within your company. Clearly communicate the value DevRel brings to other departments and ensure that the metrics reported reflect that value. Avoid letting other departments define your team's narrative.
 
-8. Consider the role of DevRel in early-stage startups: DevRel can play a valuable role in early-stage startups by acting as an experimental lab and driving low-risk experimentation. However, ensure that the responsibilities and expectations for DevRel align with the company's stage and needs.
+8. `Consider the role of DevRel in early-stage startups:` DevRel can play a valuable role in early-stage startups by acting as an experimental lab and driving low-risk experimentation. However, ensure that the responsibilities and expectations for DevRel align with the company's stage and needs.
 
-9. Foster a culture of collaboration and flexibility: DevRel should be a collaborative and flexible team that can adapt to changing circumstances. Encourage cross-functional collaboration, empower team members to explore new ideas, and provide flexibility for experimentation and innovation.
+9. `Foster a culture of collaboration and flexibility:` DevRel should be a collaborative and flexible team that can adapt to changing circumstances. Encourage cross-functional collaboration, empower team members to explore new ideas, and provide flexibility for experimentation and innovation.
 
-10. Continuously reassess and adjust: Regularly review the composition and structure of your DevRel team to ensure it aligns with the evolving needs of your company. Be willing to make adjustments and changes as necessary to optimize the team's impact.
+10. `Continuously reassess and adjust:` Regularly review the composition and structure of your DevRel team to ensure it aligns with the evolving needs of your company. Be willing to make adjustments and changes as necessary to optimize the team's impact.
 
 Remember that these suggestions are based on the discussion provided, and it's important to consider your specific context and company culture when making any changes to your developer relations team.
