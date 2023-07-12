@@ -23,14 +23,14 @@ curl --location 'https://api.deepgram.com/v1/listen?model=nova&smart_format=true
 6. See the actions & takeaways.
 7. Make DevRel great again.🎉
 
-## Easy Route
+## Easy route
 1.  If you don't want to run the curl above and experiment with Deepgram, just 🍝 `Copy Pasta` the Transcript from  the [transcript folder](./transcript/how_we_broke_deverel.text)
 2. Use ChatGPT with a prompt: `Please tell me all the changes I should make to my developer relations team based on this discussion.`
 3. See the actions & takeaways.
 4. Make DevRel great again.🎉
 
 ---
-### Actions & Takeaways Summary
+### Actions & takeaways summary
 
 `Via chatGPT`
 
